@@ -9,3 +9,6 @@ Run the following command to play the game:<br/>
 ```
 python pacman.py --pacman PartialAgent --layout mediumClassic --numGames 50
 ```
+
+### Design Document
+<a href="https://github.com/xujiachang1024/Partial-Pac-Man/blob/master/cw1-xu-jiachang.pdf">*Model-Based Reflex Agent Design of Pac-Man Strategies with Support of Pathfinding Algorithms in a Partially Observable Environment*</a>
